@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+/* bangers */
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&display=swap');
+
+
+:root { 
+    font-size: relative;
+}
+
+* { padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    font-family:'Bangers', cursive; 
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+h2, h3, h3, h4 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+nav a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+    font-family: 'bebas neue';
+    margin: 2%;
+    padding: 0.3;
+    text-align: center;
+    
+}
+nav a:hover{
+    background-color: paleturquoise;
+
+}
+
+
+nav {
+    background: whitesmoke;
+    position: center;
+    text-align: center;
+}
+
+div img {
+    box-sizing: border-box;
+    margin top: 20%;
+    text-align: ;
+    height: 350px;
+    padding: 20px;
+}
+
+div h3 {
+    margin: 0px;
+    padding: 2px;
+    font-size: 2rem;
+
+}
